@@ -1,0 +1,15 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "Promise/A+ implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests src/index"
+  },
+  "keywords": [],
+  "author": "meakle",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
