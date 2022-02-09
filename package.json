@@ -4,6 +4,7 @@
   "description": "Promise/A+ implementation",
   "main": "index.js",
   "scripts": {
+    "start": "npm install && test",
     "test": "promises-aplus-tests src/index"
   },
   "keywords": [],
